@@ -1,0 +1,29 @@
+C:/Modeltech_pe_edu_10.4a/examples/PCAddressRegister.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/PCAddressRegister.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCAddressRegister
+
+Top level modules:
+	PCAddressRegister
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/InstructionMemory.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/InstructionMemory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/CPU.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/CPU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/RegisterFile.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/RegisterFile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}}
